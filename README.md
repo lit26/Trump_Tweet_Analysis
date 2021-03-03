@@ -18,13 +18,16 @@ There are more posts during 2019 and 2020.
 ### Top Words
 
 Top single words
+
 ![word_cloud](assets/word_cloud.png)
 ![top_words](assets/top_words.png)
 
 Top bigram words
+
 ![top_biwords](assets/top_biwords.png)
 
 Top trigram words
+
 ![top_triwords](assets/top_triwords.png)
 
 ### Word Complexity
@@ -48,5 +51,6 @@ The dataset is cluster into 9 topics
 | 9 | state, today, house, united, deal, good, made, north, white, meeting, leader, happy, pm, talk, enjoy, morning, korea, continue, iran, statemen |
 
 ### Topic Distribution
+
 ![topic_distribution](assets/topic_distribution.png)
 
