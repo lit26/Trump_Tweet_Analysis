@@ -54,3 +54,13 @@ The dataset is cluster into 9 topics
 
 ![topic_distribution](assets/topic_distribution.png)
 
+### Topic Word Cloud
+![topic1](assets/topic1.png)
+![topic2](assets/topic2.png)
+![topic3](assets/topic3.png)
+![topic4](assets/topic4.png)
+![topic5](assets/topic5.png)
+![topic6](assets/topic6.png)
+![topic7](assets/topic7.png)
+![topic8](assets/topic8.png)
+![topic9](assets/topic9.png)
